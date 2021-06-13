@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paula\\Desktop\\challenge\\GolfCourse\\GolfCourse.csproj": {}
+    "C:\\Users\\paula\\Desktop\\sample cloned project\\golf-tour-api\\GolfCourse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paula\\Desktop\\challenge\\GolfCourse\\GolfCourse.csproj": {
+    "C:\\Users\\paula\\Desktop\\sample cloned project\\golf-tour-api\\GolfCourse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paula\\Desktop\\challenge\\GolfCourse\\GolfCourse.csproj",
+        "projectUniqueName": "C:\\Users\\paula\\Desktop\\sample cloned project\\golf-tour-api\\GolfCourse.csproj",
         "projectName": "GolfCourse",
-        "projectPath": "C:\\Users\\paula\\Desktop\\challenge\\GolfCourse\\GolfCourse.csproj",
+        "projectPath": "C:\\Users\\paula\\Desktop\\sample cloned project\\golf-tour-api\\GolfCourse.csproj",
         "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paula\\Desktop\\challenge\\GolfCourse\\obj\\",
+        "outputPath": "C:\\Users\\paula\\Desktop\\sample cloned project\\golf-tour-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
