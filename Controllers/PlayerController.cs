@@ -18,12 +18,13 @@ namespace GolfCourse.Controllers
         {
             _player = player;
         }
-
+        // /api/player
         [HttpGet]
         public IActionResult GetPlayers()
         {
             return Ok(_player.GetPlayers());
         }
+        // /api/player
         [HttpPost]
         public IActionResult AddPlayer([FromBody] Player player)
         {
@@ -32,6 +33,7 @@ namespace GolfCourse.Controllers
                 return Created(string.Empty, player);
             return BadRequest();
         }
+        // /api/player?name
         [HttpDelete]
         public IActionResult DeletePlayer([FromQuery] string name)
         {
@@ -40,7 +42,7 @@ namespace GolfCourse.Controllers
                 return Ok();
             return BadRequest("Player Cant be deleted.");
         }
-
+        // /api/player?name
         [HttpPut]
         public IActionResult UpdateExperience([FromQuery] string name, [FromBody] Player player)
         {
