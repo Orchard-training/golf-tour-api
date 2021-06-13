@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BjcBQYI71RB5xPEr8udYlqwyq2bDZz5RYnb9E5/WpNSojFEbKUCFyq7zxytn7HMb2e7edWf2soNJQYVl8D6q9g==",
+  "dgSpecHash": "I/vUgVd3YKeI1KuZSFQicmPbLJfdXEelCTmrA5kIUaxWRjRy9X4WInCI5h/WfeI8XQmXcsFq8YjLrHZ33+XRxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paula\\Desktop\\sample cloned project\\golf-tour-api\\GolfCourse.csproj",
+  "projectFilePath": "C:\\Users\\paula\\Desktop\\demo\\golf-tour-api\\GolfCourse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paula\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\paula\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
