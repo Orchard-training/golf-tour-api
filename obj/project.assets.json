@@ -5978,23 +5978,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\paula\\.nuget\\packages\\": {},
+    "C:\\Users\\Lisa\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paula\\Desktop\\demo\\golf-tour-api\\GolfCourse.csproj",
+      "projectUniqueName": "C:\\Users\\Lisa\\Desktop\\Clone\\golf-tour-api\\GolfCourse.csproj",
       "projectName": "GolfCourse",
-      "projectPath": "C:\\Users\\paula\\Desktop\\demo\\golf-tour-api\\GolfCourse.csproj",
-      "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paula\\Desktop\\demo\\golf-tour-api\\obj\\",
+      "projectPath": "C:\\Users\\Lisa\\Desktop\\Clone\\golf-tour-api\\GolfCourse.csproj",
+      "packagesPath": "C:\\Users\\Lisa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lisa\\Desktop\\Clone\\golf-tour-api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\paula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6054,7 +6054,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

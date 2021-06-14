@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace GolfCourse.Entity
 {
-    public class Tournament
+    //Adding class level comments
+    public class Tournament //adding attributes to the tournament class
     {
         [Key, DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int Id { get; set; }
