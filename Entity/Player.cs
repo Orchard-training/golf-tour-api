@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace GolfCourse.Entity
 {
-    public class Player
+    public class Player 
     {
         [Key, DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int Id { get; set; }
