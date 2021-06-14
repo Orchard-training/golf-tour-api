@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace GolfCourse.Entity
 {
-    public class PlayerTournament
+    public class PlayerTournament  //classes connecting both the tables
     {
         [Key]
         public int Id { get; set; }
