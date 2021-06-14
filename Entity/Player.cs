@@ -12,6 +12,7 @@ namespace GolfCourse.Entity
         [Key, DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int Id { get; set; }
         public string Name { get; set; }
+        //AGE REQUIRED
         public int Age { get; set; }
         public string City { get; set; }
         public string EmailId { get; set; }
