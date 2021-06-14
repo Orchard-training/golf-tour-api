@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paula\\Desktop\\sample cloned project\\golf-tour-api\\GolfCourse.csproj": {}
+    "C:\\Users\\91807\\Desktop\\Angula\\golf-course-angular\\golf-tour-api\\GolfCourse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paula\\Desktop\\sample cloned project\\golf-tour-api\\GolfCourse.csproj": {
+    "C:\\Users\\91807\\Desktop\\Angula\\golf-course-angular\\golf-tour-api\\GolfCourse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paula\\Desktop\\sample cloned project\\golf-tour-api\\GolfCourse.csproj",
+        "projectUniqueName": "C:\\Users\\91807\\Desktop\\Angula\\golf-course-angular\\golf-tour-api\\GolfCourse.csproj",
         "projectName": "GolfCourse",
-        "projectPath": "C:\\Users\\paula\\Desktop\\sample cloned project\\golf-tour-api\\GolfCourse.csproj",
-        "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paula\\Desktop\\sample cloned project\\golf-tour-api\\obj\\",
+        "projectPath": "C:\\Users\\91807\\Desktop\\Angula\\golf-course-angular\\golf-tour-api\\GolfCourse.csproj",
+        "packagesPath": "C:\\Users\\91807\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\91807\\Desktop\\Angula\\golf-course-angular\\golf-tour-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\paula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\91807\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
