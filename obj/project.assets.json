@@ -5984,11 +5984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\91807\\Desktop\\Angula\\golf-course-angular\\golf-tour-api\\GolfCourse.csproj",
+      "projectUniqueName": "C:\\Users\\91807\\Desktop\\Angula\\golf-tour-api\\GolfCourse.csproj",
       "projectName": "GolfCourse",
-      "projectPath": "C:\\Users\\91807\\Desktop\\Angula\\golf-course-angular\\golf-tour-api\\GolfCourse.csproj",
+      "projectPath": "C:\\Users\\91807\\Desktop\\Angula\\golf-tour-api\\GolfCourse.csproj",
       "packagesPath": "C:\\Users\\91807\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\91807\\Desktop\\Angula\\golf-course-angular\\golf-tour-api\\obj\\",
+      "outputPath": "C:\\Users\\91807\\Desktop\\Angula\\golf-tour-api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
