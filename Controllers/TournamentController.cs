@@ -45,6 +45,17 @@ namespace GolfCourse.Controllers
             if (players is null)
                 return BadRequest("Invalid");
             return Ok(players);
+
+        }
+
+        // Added Controller for Updating Prize of the tournament
+        [HttpPut]
+        public IActionResult Update([FromQuery] int tourId, [FromBody] Tournament tournament)
+        {
+            bool isUpdated = _tournament.UpdateTournamentPrize(tourId, tournament);
+            if (isUpdated)
+                return Ok();
+            return BadRequest("Update Failed");
         }
     }
 }

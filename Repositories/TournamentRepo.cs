@@ -44,5 +44,16 @@ namespace GolfCourse.Repositories
             }
             return player;
         }
+        // Added Update Functionality as per the  Change Request
+        public bool UpdateTournamentPrize(int tourId, Tournament tournament)
+        {
+            Tournament existingTournament = _context.Tournaments.SingleOrDefault(t => t.Id == tourId);
+            if (existingTournament is null)
+                return false;
+            existingTournament.Prize = tournament.Prize;
+            _context.Tournaments.Update(existingTournament);
+            _context.SaveChanges();
+            return true;
+        }
     }
 }
